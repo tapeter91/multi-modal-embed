@@ -1,0 +1,30 @@
+# API key / secrets
+config.json
+
+# Generated data
+embeddings.json
+
+# Media files
+sources/
+backup_source/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+.env
+*.egg-info/
+dist/
+build/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# OS
+.DS_Store
+Thumbs.db
